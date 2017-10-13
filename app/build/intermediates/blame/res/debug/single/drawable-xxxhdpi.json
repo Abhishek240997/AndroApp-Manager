@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "C:\\Users\\ABHISHEK\\AndroidStudioProjects\\AspManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\searchicon.png",
+        "source": "C:\\Users\\ABHISHEK\\AndroidStudioProjects\\AspManager\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\searchicon.png"
+    },
+    {
+        "merged": "C:\\Users\\ABHISHEK\\AndroidStudioProjects\\AspManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\cleardataicon.png",
+        "source": "C:\\Users\\ABHISHEK\\AndroidStudioProjects\\AspManager\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\cleardataicon.png"
+    },
+    {
+        "merged": "C:\\Users\\ABHISHEK\\AndroidStudioProjects\\AspManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\favouriteicon.png",
+        "source": "C:\\Users\\ABHISHEK\\AndroidStudioProjects\\AspManager\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\favouriteicon.png"
+    },
+    {
+        "merged": "C:\\Users\\ABHISHEK\\AndroidStudioProjects\\AspManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\systemappicon.png",
+        "source": "C:\\Users\\ABHISHEK\\AndroidStudioProjects\\AspManager\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\systemappicon.png"
+    },
+    {
+        "merged": "C:\\Users\\ABHISHEK\\AndroidStudioProjects\\AspManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\sendappicon.png",
+        "source": "C:\\Users\\ABHISHEK\\AndroidStudioProjects\\AspManager\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\sendappicon.png"
+    },
+    {
+        "merged": "C:\\Users\\ABHISHEK\\AndroidStudioProjects\\AspManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\openicon.png",
+        "source": "C:\\Users\\ABHISHEK\\AndroidStudioProjects\\AspManager\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\openicon.png"
+    },
+    {
+        "merged": "C:\\Users\\ABHISHEK\\AndroidStudioProjects\\AspManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\hearticon.png",
+        "source": "C:\\Users\\ABHISHEK\\AndroidStudioProjects\\AspManager\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\hearticon.png"
+    },
+    {
+        "merged": "C:\\Users\\ABHISHEK\\AndroidStudioProjects\\AspManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\cacheicon.png",
+        "source": "C:\\Users\\ABHISHEK\\AndroidStudioProjects\\AspManager\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\cacheicon.png"
+    },
+    {
+        "merged": "C:\\Users\\ABHISHEK\\AndroidStudioProjects\\AspManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\permissionicon.png",
+        "source": "C:\\Users\\ABHISHEK\\AndroidStudioProjects\\AspManager\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\permissionicon.png"
+    },
+    {
+        "merged": "C:\\Users\\ABHISHEK\\AndroidStudioProjects\\AspManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\shareicon.png",
+        "source": "C:\\Users\\ABHISHEK\\AndroidStudioProjects\\AspManager\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\shareicon.png"
+    },
+    {
+        "merged": "C:\\Users\\ABHISHEK\\AndroidStudioProjects\\AspManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\uninstallicon.png",
+        "source": "C:\\Users\\ABHISHEK\\AndroidStudioProjects\\AspManager\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\uninstallicon.png"
+    },
+    {
+        "merged": "C:\\Users\\ABHISHEK\\AndroidStudioProjects\\AspManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\extracticon.png",
+        "source": "C:\\Users\\ABHISHEK\\AndroidStudioProjects\\AspManager\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\extracticon.png"
+    },
+    {
+        "merged": "C:\\Users\\ABHISHEK\\AndroidStudioProjects\\AspManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\installedappicon.png",
+        "source": "C:\\Users\\ABHISHEK\\AndroidStudioProjects\\AspManager\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\installedappicon.png"
+    },
+    {
+        "merged": "C:\\Users\\ABHISHEK\\AndroidStudioProjects\\AspManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\settingsicon.png",
+        "source": "C:\\Users\\ABHISHEK\\AndroidStudioProjects\\AspManager\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\settingsicon.png"
+    }
+]

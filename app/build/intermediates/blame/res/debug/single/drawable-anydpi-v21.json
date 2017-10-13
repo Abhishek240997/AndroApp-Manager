@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "C:\\Users\\ABHISHEK\\AndroidStudioProjects\\AspManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\permissionicon.xml",
+        "source": "C:\\Users\\ABHISHEK\\AndroidStudioProjects\\AspManager\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\permissionicon.xml"
+    },
+    {
+        "merged": "C:\\Users\\ABHISHEK\\AndroidStudioProjects\\AspManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\searchicon.xml",
+        "source": "C:\\Users\\ABHISHEK\\AndroidStudioProjects\\AspManager\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\searchicon.xml"
+    },
+    {
+        "merged": "C:\\Users\\ABHISHEK\\AndroidStudioProjects\\AspManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\settingsicon.xml",
+        "source": "C:\\Users\\ABHISHEK\\AndroidStudioProjects\\AspManager\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\settingsicon.xml"
+    },
+    {
+        "merged": "C:\\Users\\ABHISHEK\\AndroidStudioProjects\\AspManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\cacheicon.xml",
+        "source": "C:\\Users\\ABHISHEK\\AndroidStudioProjects\\AspManager\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\cacheicon.xml"
+    },
+    {
+        "merged": "C:\\Users\\ABHISHEK\\AndroidStudioProjects\\AspManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\design_ic_visibility_off.xml",
+        "source": "C:\\Users\\ABHISHEK\\.android\\build-cache\\41fb89fd2391d70e04df358be95a0a1210189162\\output\\res\\drawable-anydpi-v21\\design_ic_visibility_off.xml"
+    },
+    {
+        "merged": "C:\\Users\\ABHISHEK\\AndroidStudioProjects\\AspManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\design_ic_visibility.xml",
+        "source": "C:\\Users\\ABHISHEK\\.android\\build-cache\\41fb89fd2391d70e04df358be95a0a1210189162\\output\\res\\drawable-anydpi-v21\\design_ic_visibility.xml"
+    },
+    {
+        "merged": "C:\\Users\\ABHISHEK\\AndroidStudioProjects\\AspManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\openicon.xml",
+        "source": "C:\\Users\\ABHISHEK\\AndroidStudioProjects\\AspManager\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\openicon.xml"
+    },
+    {
+        "merged": "C:\\Users\\ABHISHEK\\AndroidStudioProjects\\AspManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\hearticon.xml",
+        "source": "C:\\Users\\ABHISHEK\\AndroidStudioProjects\\AspManager\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\hearticon.xml"
+    },
+    {
+        "merged": "C:\\Users\\ABHISHEK\\AndroidStudioProjects\\AspManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\shareicon.xml",
+        "source": "C:\\Users\\ABHISHEK\\AndroidStudioProjects\\AspManager\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\shareicon.xml"
+    },
+    {
+        "merged": "C:\\Users\\ABHISHEK\\AndroidStudioProjects\\AspManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\cleardataicon.xml",
+        "source": "C:\\Users\\ABHISHEK\\AndroidStudioProjects\\AspManager\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\cleardataicon.xml"
+    },
+    {
+        "merged": "C:\\Users\\ABHISHEK\\AndroidStudioProjects\\AspManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\favouriteicon.xml",
+        "source": "C:\\Users\\ABHISHEK\\AndroidStudioProjects\\AspManager\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\favouriteicon.xml"
+    },
+    {
+        "merged": "C:\\Users\\ABHISHEK\\AndroidStudioProjects\\AspManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\systemappicon.xml",
+        "source": "C:\\Users\\ABHISHEK\\AndroidStudioProjects\\AspManager\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\systemappicon.xml"
+    },
+    {
+        "merged": "C:\\Users\\ABHISHEK\\AndroidStudioProjects\\AspManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\sendappicon.xml",
+        "source": "C:\\Users\\ABHISHEK\\AndroidStudioProjects\\AspManager\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\sendappicon.xml"
+    },
+    {
+        "merged": "C:\\Users\\ABHISHEK\\AndroidStudioProjects\\AspManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\installedappicon.xml",
+        "source": "C:\\Users\\ABHISHEK\\AndroidStudioProjects\\AspManager\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\installedappicon.xml"
+    },
+    {
+        "merged": "C:\\Users\\ABHISHEK\\AndroidStudioProjects\\AspManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\uninstallicon.xml",
+        "source": "C:\\Users\\ABHISHEK\\AndroidStudioProjects\\AspManager\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\uninstallicon.xml"
+    },
+    {
+        "merged": "C:\\Users\\ABHISHEK\\AndroidStudioProjects\\AspManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\extracticon.xml",
+        "source": "C:\\Users\\ABHISHEK\\AndroidStudioProjects\\AspManager\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\extracticon.xml"
+    }
+]
