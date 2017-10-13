@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/installed_apps"
+            android:icon="@drawable/installedappicon"
+            android:title="Installed Apps" />
+        <item
+            android:id="@+id/system_apps"
+            android:icon="@drawable/systemappicon"
+            android:title="System Apps" />
+        <item
+            android:id="@+id/favourite_apps"
+            android:icon="@drawable/hearticon"
+            android:title="Favourites"/>
+        <item
+            android:id="@+id/send"
+            android:icon="@drawable/sendappicon"
+            android:title="Send" />
+    </group>
+</menu>

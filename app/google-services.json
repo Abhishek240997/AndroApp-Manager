@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "500794828139",
+    "firebase_url": "https://aspmanager-7ed65.firebaseio.com",
+    "project_id": "aspmanager-7ed65",
+    "storage_bucket": "aspmanager-7ed65.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:500794828139:android:33a0887b77933e3b",
+        "android_client_info": {
+          "package_name": "com.abhishek.aspmanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "500794828139-mod7h8g149voja82ef7ufesoj08m58f7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.abhishek.aspmanager",
+            "certificate_hash": "ed9efd2936a1532b2145f8f0b5c5824481779706"
+          }
+        },
+        {
+          "client_id": "500794828139-5smidl74l0bsushvqpgb3hc0dtm9g2ie.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyFd0YqS-rjZmCh7ojINAZj7ykFuYbu6s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "500794828139-5smidl74l0bsushvqpgb3hc0dtm9g2ie.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
